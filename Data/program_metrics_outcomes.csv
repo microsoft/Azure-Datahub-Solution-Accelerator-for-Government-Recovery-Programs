@@ -1,0 +1,60 @@
+ProgramId,Metric_Outcome,Demography_Type,Demography,Metric_Year,Metric_Value
+PRG-0006,License Startups,"","",2018,135.0
+PRG-0006,License Startups,"","",2019,158.0
+PRG-0006,License Startups,"","",2020,174.0
+PRG-0011,Childcare Facilities Served,"","",2018,598.0
+PRG-0011,Childcare Facilities Served,"","",2019,650.0
+PRG-0011,Childcare Facilities Served,"","",2020,752.0
+PRG-0001,rent_assistance_requests,"","",2017,1262.0
+PRG-0001,rent_assistance_requests,"","",2018,1345.0
+PRG-0001,rent_assistance_requests,"","",2019,1509.0
+PRG-0001,rent_assistance_requests,"","",2020,2295.0
+PRG-0001,rent_assistance_requests,"","",2021,2540.0
+PRG-0001,rent_assistance_requests,"","",2022,2317.0
+PRG-0011,Applications Awarded,"","",2018,28.2
+PRG-0011,Applications Awarded,"","",2019,34.8
+PRG-0011,Applications Awarded,"","",2020,45.2
+PRG-0011,Applications Awarded,"","",2021,43.9
+PRG-0011,Applications Awarded,"","",2022,55.2
+PRG-0006,License Startups,"","",2021,200.0
+PRG-0006,License Startups,"","",2022,253.0
+PRG-0006,Training,"","",2017,20.2
+PRG-0006,Training,"","",2018,29.1
+PRG-0006,Training,"","",2019,32.5
+PRG-0006,Training,"","",2020,45.2
+PRG-0006,Grants,"","","",5430.0
+PRG-0006,Grants,"","","",9812.0
+PRG-0006,License Startups,"","",2017,120.0
+PRG-0011,Childcare Facilities Served,"","",2021,784.0
+PRG-0011,Childcare Facilities Served,"","",2022,857.0
+PRG-0011,Applications Awarded,"","",2017,22.1
+PRG-0011,Awards,"","","",4.0
+PRG-0011,Awards,"","","",1.0
+PRG-0011,Awards,"","","",3.0
+PRG-0006,Grants,"","","",58.5
+PRG-0006,Grants,"","","",45.0
+PRG-0006,Grants,"","","",30.0
+PRG-0011,Awards,"","","",7.0
+PRG-0011,Awards,"","","",12.0
+PRG-0011,Awards,"","","",11.0
+PRG-0011,Awards,"","","",6.0
+PRG-0011,Awards,"","","",7.5
+PRG-0011,Awards,"","","",17.5
+PRG-0001,Months_of_Assistance_Rent,"","","",901.0
+PRG-0001,Months_of_Assistance_Rent,"","","",3121.0
+PRG-0001,Months_of_Assistance_Rent,"","","",2688.0
+PRG-0001,Months_of_Assistance_Utility,"","","",759.0
+PRG-0001,Months_of_Assistance_Utility,"","","",210.0
+PRG-0001,Months_of_Assistance_Utility,"","","",1401.0
+PRG-0006,Training,"","",2021,39.6
+PRG-0006,Training,"","",2022,47.9
+PRG-0011,Childcare Facilities Served,"","",2017,500.0
+PRG-0001,Months_of_Assistance_Utility,"","","",7683.0
+PRG-0011,Awards,"","","",8.0
+PRG-0011,Awards,"","","",3.0
+PRG-0001,Budget,"","","",600000.0
+PRG-0001,Budget,"","","",50000.0
+PRG-0001,Months_of_Assistance_Rent,"","","",3343.0
+PRG-0006,Grants,"","","",12.0
+PRG-0006,Grants,"","","",11358.0
+PRG-0006,Grants,"","","",2645.0
