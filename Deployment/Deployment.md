@@ -26,7 +26,6 @@ In order to perform the necessary actions in Synapse workspace, you will need to
 
 
 # Step 3: Upload Sample Dataset
-> **Note**: To connect the solution with your Office 365 data, follow the [Deployment_M365 Guide](./Deployment_M365.md) to set up the linked services and pipelines. If you would like to see how the solution works with the sample dataset, continue with the steps below. 
 
 1. Launch the Synapse workspace [Synapse Workspace](https://ms.web.azuresynapse.net/)
 2. Select the `subscription` and `workspace` name you are using for this solution accelerator
@@ -43,7 +42,7 @@ In order to perform the necessary actions in Synapse workspace, you will need to
 
 
 
-# Step 5: Upload Assets and Run Noteboks
+# Step 4: Upload Assets and Run Noteboks
 1. Launch the Synapse workspace [Synapse Workspace](https://ms.web.azuresynapse.net/)
 2. Go to `Develop`, click the `+`, and click `Import` to select all notebooks from this repository's [folder](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs/main/Code/Notebooks)
 3. For each of the notebooks, select `Attach to > spark1` in the top dropdown
@@ -54,7 +53,7 @@ In order to perform the necessary actions in Synapse workspace, you will need to
     ```
 6. Run `LoadData.ipynb` and `CreateCDM.ipynb`
 
-## Step 6: Power BI Set Up 
+## Step 5: Power BI Set Up 
 1. Open the [Power BI report](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs/main/Deployment/PowerBI/GovDataHub-Dashboard.pbix) in this repository
 
 2. Click the Transform data dropdown and click Data source settings 
