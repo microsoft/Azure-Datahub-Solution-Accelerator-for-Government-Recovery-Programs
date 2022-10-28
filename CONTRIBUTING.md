@@ -1,12 +1,9 @@
 # Contributing 
 
 Welcome, and thank you for your interest in contributing. There are many ways to contribute: 
-* [Submit issues](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs
-/issues) to report bugs and make suggestions. 
-* Review the [source code changes](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs
-/compare). 
-* Contribute features and fixes by forking the repository and creating a [pull request](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs
-/pulls). 
+* [Submit issues](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs/issues) to report bugs and make suggestions. 
+* Review the [source code changes](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs/compare). 
+* Contribute features and fixes by forking the repository and creating a [pull request](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs/pulls). 
 
 ## Contributor License Agreement 
 This project welcomes contributors and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit [https://cla.opensource.microsoft.com](https://cla.opensource.microsoft.com).
